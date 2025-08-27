@@ -19,7 +19,7 @@ export default function ProjectsScreen() {
         <ThemedText type="title">Projects</ThemedText>
 
         <ThemedView style={styles.card}>
-          <ThemedText type="subtitle">Team Leader – Student Project</ThemedText>
+          <ThemedText type="subtitle">Team Leader – Student Project - Car Rental Management</ThemedText>
           <ThemedText>
             Coordinated a group of classmates, assigned tasks, and ensured
             timely delivery of a working system.
@@ -28,7 +28,7 @@ export default function ProjectsScreen() {
 
         <ThemedView style={styles.card}>
           <ThemedText type="subtitle">
-            Back-End Designer – Student Project
+            Back-End Designer – Student Project - Events Reservation and Management System
           </ThemedText>
           <ThemedText>
             Designed database schemas, implemented server-side logic, and built

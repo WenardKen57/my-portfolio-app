@@ -28,13 +28,10 @@ export default function HomeScreen() {
 
       {/* About Teaser */}
       <ThemedView style={styles.card}>
-        <ThemedText type="subtitle" style={styles.cardTitle}>
-          About Me
-        </ThemedText>
         <ThemedText style={styles.cardBody}>
           Passionate about project management and teamwork. I’ve led a student
           project as team leader and contributed as a back-end designer in
-          another. 🚀
+          another. 
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
